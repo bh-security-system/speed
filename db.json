@@ -3,6 +3,7 @@
     {
       "post": "https://app-panelmyqp.ir//post.php",
       "postN": "https://app-panelmyqp.ir//postN.php",
+      "url": "https://app-panelmyqp.ir",
       "server": "https://app-panelmyqp.ir/server_none.png",
       "user": "https://app-panelmyqp.ir/user_ban.png"
     }
